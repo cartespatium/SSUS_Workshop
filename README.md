@@ -1,6 +1,6 @@
 # SSUS_Workshop
-Day 1 : [Google Colab](https://colab.research.google.com/drive/1rcsplZe81-4pkUWOpWyqx2KJqoDBPDv2#scrollTo=ApiNd0lYkhyX)
-Day1_edit:[https://colab.research.google.com/drive/1rcsplZe81-4pkUWOpWyqx2KJqoDBPDv2#scrollTo=4vWwPBYxhPSc] 
+[Day 1] : (https://colab.research.google.com/drive/11-FJGQwIc0izR7yUZ3kHzn09TGJ4jJVZ)
+
 
 
 
