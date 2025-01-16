@@ -58,21 +58,5 @@ The following notebooks provide detailed instructions and examples for:
 
 ---
 
-## **Workshop Highlights**
-
-### **Why Python for Geoinformatics?**
-- Python is versatile and efficient for geospatial data analysis.
-- With libraries like GeoPandas, Rasterio, and PyTorch, Python offers tools for vector and raster data handling, ML, and DL.
-
-### **Real-World Applications Demonstrated**
-- Image classification using neural networks.
-- Automating geospatial tasks, like shoreline extraction and landslide mapping.
-
-### **Google Earth Engine**
-- Bulk satellite data downloading.
-- Visualization and analysis with Earth Engine Apps.
-
----
-
 ## **Contact Information**
 For any questions or further clarifications, feel free to reach out to the resource persons through their [LinkedIn profiles](#resource-persons).
