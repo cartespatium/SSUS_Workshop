@@ -36,13 +36,10 @@ This repository is part of the **3-days workshop** conducted from 07 - 09 Jan 20
 
 ## **Personal Projects**
 
-While explaining personal projects, the use cases of Python were demonstrated, and concepts like web mapping, microcontrollers, and IoT devices were introduced. Examples included:
-
 - **Automatic Shoreline Extraction Algorithm**
 - **Air Quality Mapping Based on a Low-Cost Portable IoT System Network**
-  - Discussed the possibilities of real-time data collection, analysis, and visualization using devices like Raspberry Pi, NodeMCU, and Arduino UNO.
-
----
+  
+While explaining personal projects, we explained the use cases of python we learned and introduced the concepts like web mapping, microcontrollers such as Raspberry pi, NodeMCU and ArduinoUNO and other IoT devices, possibilities of real-time data collection, analysis and Visualization.
 
 ## **Self-Explanatory Notebooks**
 
