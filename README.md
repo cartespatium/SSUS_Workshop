@@ -1,6 +1,6 @@
 # Workshop on Advancements in Geoinformatics
 
-This repository is part of the workshop conducted to provide hands-on experience in Python and Machine Learning for geospatial applications. The workshop targeted first-year M.Sc. Geography and M.Sc. Disaster Management students from Sree Sankaracharya University of Sanskrit, Kalady, Ernakulam.
+This repository is part of the **3-days workshop** conducted from 07 - 09 Jan 2025 to provide hands-on experience in Python and Machine Learning for geospatial applications. The workshop targeted first-year M.Sc. Geography and M.Sc. Disaster Management students from Sree Sankaracharya University of Sanskrit, Kalady, Ernakulam.
 
 ---
 
