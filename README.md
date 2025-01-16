@@ -53,8 +53,8 @@ The following notebooks provide detailed instructions and examples for:
 
 ### Access Notebooks
 
-- [Day 1: Google Colab](https://colab.research.google.com/drive/11-FJGQwIc0izR7yUZ3kHzn09TGJ4jJVZ)
-- [Day 2: Google Colab](https://colab.research.google.com/drive/1Kyhfwl4a-4d8iICd4JQb_e7eAzxw5f_W#scrollTo=Yedd8bT__m0E)
+- [Google Colab: Notebook 1](https://colab.research.google.com/drive/1rcsplZe81-4pkUWOpWyqx2KJqoDBPDv2#scrollTo=cV6gXBwO6OqX)
+- [Google Colab: Notebook 2](https://colab.research.google.com/drive/1Kyhfwl4a-4d8iICd4JQb_e7eAzxw5f_W#scrollTo=8Vp1T6Dy9YEZ)
 
 ---
 
